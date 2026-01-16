@@ -17,6 +17,8 @@ Players are represented as **half-cut spheres**, giving the game a clean, readab
 
 Simple to learn, competitive to master.
 
+**DEMO VIDEO:** https://github.com/user-attachments/assets/714a852b-f200-4ab6-85cb-7531a5e19044
+
 ---
 
 ## ✨ Features
